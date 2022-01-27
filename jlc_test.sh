@@ -1,5 +1,5 @@
 #!/bin/bash
-source /home/jlc/Ajin_tracter_ros/src/Fast-tracker-main/devel/setup.bash
+source ~/devel/setup.bash
 {	
 sleep 2
  roslaunch -v traj_server traj_server.launch&
